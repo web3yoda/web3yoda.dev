@@ -1,7 +1,7 @@
 baseURL: 'https://web3yoda.dev'
 theme: LoveIt
 themesDir: themes
-title: Yoda's Note
+title: Yoda's Notes
 defaultContentLanguage: zh-cn
 languageCode: zh-cn
 languageName: 简体中文
@@ -47,7 +47,7 @@ params:
   gitRepo: 'https://github.com/web3yoda'
   fingerprint: ''
   dateFormat: '2006-01-02'
-  title: Yoda's Note
+  title: Yoda's Notes
   description: Yet another developer's tech notes.
   images:
     - /logo.png
@@ -56,7 +56,7 @@ params:
     mobileMode: auto
     title:
       logo: ''
-      name: Yoda's Note
+      name: Yoda's Notes
       pre: ''
       post: ''
       typeit: false
