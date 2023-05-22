@@ -1,7 +1,7 @@
 baseURL: 'https://web3yoda.dev'
-theme: LoveIt
+theme: Yoda's Note
 themesDir: themes
-title: LoveIt
+title: Yoda's Note
 defaultContentLanguage: zh-cn
 languageCode: zh-cn
 languageName: 简体中文
@@ -198,7 +198,7 @@ params:
         recordIP: true
         highlight: true
         enableQQ: false
-        serverURLs: 'https://leancloud.hugoloveit.com'
+        serverURLs: ''
         emoji: ''
       facebook:
         enable: false
