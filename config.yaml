@@ -226,10 +226,10 @@ params:
         darkTheme: github-dark
       giscus:
         enable: true
-        repo: web3yoda/comments
-        repoId: R_kgDOJmLJDQ
+        repo: web3yoda/web3yoda.github.io
+        repoId: R_kgDOJldzfA
         category: Announcements
-        categoryId: DIC_kwDOJmLJDc4CWqXv
+        categoryId: DIC_kwDOJldzfM4CWxkl
         lang: en
         mapping: pathname
         reactionsEnabled: '1'
