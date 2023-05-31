@@ -391,7 +391,7 @@ languages:
           identifier: graph-code-gallery
           pre: ''
           post: ''
-          name: Graph Code Gallery
+          name: Gallery
           url: /graph-code-gallery/
           title: ''
         - weight: 6
@@ -489,7 +489,7 @@ languages:
           identifier: graph-code-gallery
           pre: ''
           post: ''
-          name: Graph Code Gallery
+          name: Gallery
           url: /graph-code-gallery/
           title: ''
         - weight: 6
