@@ -387,7 +387,6 @@ languages:
           name: Cheatsheet
           url: /developer-cheatsheet/
           title: ''
-          
         - weight: 5
           identifier: graph-code-gallery
           pre: ''
@@ -485,6 +484,13 @@ languages:
           post: ''
           name: Cheatsheet
           url: /developer-cheatsheet/
+          title: ''
+        - weight: 5
+          identifier: graph-code-gallery
+          pre: ''
+          post: ''
+          name: Graph Code Gallery
+          url: /graph-code-gallery/
           title: ''
         - weight: 6
           identifier: about
